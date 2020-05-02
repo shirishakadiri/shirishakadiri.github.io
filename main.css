@@ -49,7 +49,7 @@ body {
   }
   .first-div{
     color : white;
-    background: url(images/body.jpg) no-repeat center center fixed; 
+    background: url(images/body.JPG) no-repeat center center fixed; 
     background-size: cover;
     background-attachment: fixed;
     width: 100%;

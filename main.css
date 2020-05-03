@@ -41,6 +41,16 @@ body {
     text-align: left;
   }
 
+  .footer-icon{
+    margin: 10px;
+    color: #7c8a96;
+  }
+
+  .header-icon{
+    margin: 10px;
+    color: #fff;
+  }
+
   .progress-bar{
     background-color: #000;
   }

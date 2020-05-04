@@ -41,6 +41,17 @@ body {
     text-align: left;
   }
 
+  .skills-div{
+    position: absolute;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    top: 43%;
+    font-size: 1.2em;
+    display: none;
+    font-weight: bold;
+  }
+
   .footer-icon{
     margin: 10px;
     color: #7c8a96;
